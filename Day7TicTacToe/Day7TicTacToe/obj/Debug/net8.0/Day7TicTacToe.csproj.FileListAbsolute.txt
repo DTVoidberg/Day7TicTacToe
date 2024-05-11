@@ -1,0 +1,15 @@
+C:\Users\David\Desktop\C#MainStudies\Day7TicTacToe\Day7TicTacToe\bin\Debug\net8.0\Day7TicTacToe.exe
+C:\Users\David\Desktop\C#MainStudies\Day7TicTacToe\Day7TicTacToe\bin\Debug\net8.0\Day7TicTacToe.deps.json
+C:\Users\David\Desktop\C#MainStudies\Day7TicTacToe\Day7TicTacToe\bin\Debug\net8.0\Day7TicTacToe.runtimeconfig.json
+C:\Users\David\Desktop\C#MainStudies\Day7TicTacToe\Day7TicTacToe\bin\Debug\net8.0\Day7TicTacToe.dll
+C:\Users\David\Desktop\C#MainStudies\Day7TicTacToe\Day7TicTacToe\bin\Debug\net8.0\Day7TicTacToe.pdb
+C:\Users\David\Desktop\C#MainStudies\Day7TicTacToe\Day7TicTacToe\obj\Debug\net8.0\Day7TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\C#MainStudies\Day7TicTacToe\Day7TicTacToe\obj\Debug\net8.0\Day7TicTacToe.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\C#MainStudies\Day7TicTacToe\Day7TicTacToe\obj\Debug\net8.0\Day7TicTacToe.AssemblyInfo.cs
+C:\Users\David\Desktop\C#MainStudies\Day7TicTacToe\Day7TicTacToe\obj\Debug\net8.0\Day7TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\C#MainStudies\Day7TicTacToe\Day7TicTacToe\obj\Debug\net8.0\Day7TicTacToe.sourcelink.json
+C:\Users\David\Desktop\C#MainStudies\Day7TicTacToe\Day7TicTacToe\obj\Debug\net8.0\Day7TicTacToe.dll
+C:\Users\David\Desktop\C#MainStudies\Day7TicTacToe\Day7TicTacToe\obj\Debug\net8.0\refint\Day7TicTacToe.dll
+C:\Users\David\Desktop\C#MainStudies\Day7TicTacToe\Day7TicTacToe\obj\Debug\net8.0\Day7TicTacToe.pdb
+C:\Users\David\Desktop\C#MainStudies\Day7TicTacToe\Day7TicTacToe\obj\Debug\net8.0\Day7TicTacToe.genruntimeconfig.cache
+C:\Users\David\Desktop\C#MainStudies\Day7TicTacToe\Day7TicTacToe\obj\Debug\net8.0\ref\Day7TicTacToe.dll
